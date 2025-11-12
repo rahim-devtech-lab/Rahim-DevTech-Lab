@@ -3,6 +3,7 @@
 > _Every project is a journey of learning by doing — where Informatics, AI, and free tools come together to turn ideas into meaningful, real-world learning experiences._
 
 ---
+Portfolio and collection of Informatics projects, including Altara-World and WolfTech-ERP.
 
 ### 👋 About Me
 I’m **Rahim**, a Robotics & Coding Coach passionate about making learning hands-on and accessible.  
