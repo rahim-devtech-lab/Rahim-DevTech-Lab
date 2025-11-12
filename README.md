@@ -4,6 +4,8 @@
 
 ---
 Portfolio and collection of Informatics projects, including Altara-World and WolfTech-ERP.
+https://rahim-devtech-lab.github.io/WolfTech-ERP/
+https://rahim-devtech-lab.github.io/Altara-2402-World/
 
 ### 👋 About Me
 I’m **Rahim**, a Robotics & Coding Coach passionate about making learning hands-on and accessible.  
