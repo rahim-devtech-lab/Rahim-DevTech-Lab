@@ -9,6 +9,19 @@ I’m **Rahim**, a Robotics & Coding Coach passionate about making learning hand
 Through projects that merge creativity and Informatics, I explore how AI and technology can transform education and inspire curiosity.
 
 ---
+### 💡 Focus Areas
+- 🤖 Robotics & Arduino innovation  
+- 💻 App & Web Development  
+- 🧠 Informatics + AI Integration  
+- 🧩 Educational Tools & Experiments
+
+---
+
+### 🧭 Mission
+**build understanding through creation** — every circuit, line of code, and system design tells a story of discovery.  
+Empower students, educators, and innovators to explore, build, and learn by doing — turning Informatics theory into creative, tangible experiences that spark innovation.
+
+---
 
 ### 🚀 Featured Project
 An immersive educational environment that brings Informatics concepts to life through simulation, systems design, and AI-based exploration.  
@@ -31,11 +44,6 @@ An immersive educational environment that brings Informatics concepts to life th
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge)
 ![Free Tools](https://img.shields.io/badge/Free%20Tools-4CAF50?style=for-the-badge)
-
----
-
-### 🌱 Mission & Vision
-To empower students, educators, and innovators to explore, build, and learn by doing — turning Informatics theory into creative, tangible experiences that spark innovation.
 
 ---
 
